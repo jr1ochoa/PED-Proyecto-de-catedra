@@ -1,1 +1,2 @@
 Esta es  una edicion desde la web
+Esta es una edicion desde la aplicación de escritorio
